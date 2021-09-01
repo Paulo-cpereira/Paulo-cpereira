@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulo-cpereira
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning JavaScript React
-- 💞️ I’m currently collaborating on University of Vila Real, Portugal (UTAD)
+- 💞️ I’m currently collaborating with University of Vila Real, Portugal (UTAD)
 - 📫 If you want to discuss anything with me, email me at paulo_j_c_p@hotmail.com
 
 <!---
