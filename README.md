@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulo-cpereira
-- Currently working as a Data Engineer at Devoteam G Cloud Portugal
+- Currently working as a AI Engineer at Devoteam G Cloud Portugal
 - 👀 I’m always interested in learning
-- 🌱 I finished my Computer Science degree at  Universidade Trás-os-Montes e Alto Douro, Portugal (UTAD)
+- 🌱 I finished my Computer Science degree at Universidade Trás-os-Montes e Alto Douro, Portugal (UTAD)
 - 📫 If you want to discuss anything with me, email me at paulo_j_c_p@hotmail.com
 
 <!---
